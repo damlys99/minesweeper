@@ -12,3 +12,5 @@ Project is created with:
 
 ## Launching
 Simply download Minesweeper.jar and launch it. You need to have Java installed on your machine.
+
+![Screenshot](screen.png)
